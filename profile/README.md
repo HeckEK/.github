@@ -40,7 +40,6 @@ If you're interested in getting involved, check out our [contribution guidelines
 ## :books: Learn More
 
 To learn more about Gardener, visit our official website at [https://gardener.cloud](https://gardener.cloud).
-We provide a [free demo playground](https://demo.gardener.cloud/) to provide you with a hands-on experience of Gardener.
 You can also find our documentation [here](https://gardener.cloud/docs/) and can reach out to us via [Slack](https://gardener-cloud.slack.com/) (join the workspace [here](https://gardener.cloud/community/community-bio/)).
 
 <p align="center"><img alt="Bundesministerium für Wirtschaft und Energie (BMWE)-EU funding logo" src="https://apeirora.eu/assets/img/BMWK-EU.png" width="400"/></p>
